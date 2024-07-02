@@ -4,7 +4,7 @@
 
 ### FICE CheckPoint File:
 > * Put file under `FICE/checkpoints/`  
->[[Google Drive]](https://drive.google.com/drive/folders/1fBxq_9X-bA_TM4t968PdWdKRkq668TF5?usp=sharing)
+>[[Checkpoint]](https://www.dropbox.com/s/qx9mag5hh7tleso/checkpoints.tar.xz?dl=1) 
 
 ### References： 
 > * FICE: Text-Conditioned Fashion Image Editing with Guided GAN Inversion   
