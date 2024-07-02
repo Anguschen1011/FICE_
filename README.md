@@ -3,7 +3,7 @@
 * Running `FICE.ipynb` on Google Colab.
 
 ### Set folder path :  
-> * change your code's path `%cd your_path/FICE` in `FICE.ipynb`
+> * change your code's folder path `%cd your_path/FICE` in `FICE.ipynb`
 
 ### FICE CheckPoint File :  
 > * Put file under `FICE/checkpoints/`  
